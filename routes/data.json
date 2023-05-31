@@ -1,0 +1,13 @@
+[
+    {
+        "id": "62eb1f7f-c2c9-4034-9214-3f825c3c9462",
+        "title": "Guruh 1",
+        "users": [
+            {
+                "id": "2ba6f9ea-dcb3-4331-a712-f136ce2cf62e",
+                "name": "User 1",
+                "age": 1
+            }
+        ]
+    }
+]
